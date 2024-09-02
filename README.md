@@ -1,4 +1,4 @@
-# Car Damage Analysis Automation with AWS Generative AI
+# Car Damage Analysis with AWS Generative AI
 
 This Python script automates the process of analyzing car images for damage and imperfections using Amazon Bedrock Anthropic Claude 3.5 Sonnet. It streamlines the workflow of retrieving images from an S3 bucket, processing them with Amazon Bedrock's Anthropic Claude 3.5 Sonnet model, and outputting detailed analysis results.
 
