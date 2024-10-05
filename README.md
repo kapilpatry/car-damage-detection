@@ -49,8 +49,7 @@ Anthropic's Claude 3.5 Sonnet model, available through Amazon Bedrock, offers:
 
 ## License
 
-[Specify the license for your project]
-
+MIT
 ---
 
 This summary highlights the use of Amazon Bedrock's Anthropic Claude 3.5 Sonnet model as the foundation for your image analysis task. It provides an overview of your script's functionality, key features, and includes sections that you can easily fill in with specific details about usage, configuration, and licensing. This version gives potential users or collaborators a clear understanding of what your script does, how it leverages advanced AI capabilities, and the benefits of using the Claude 3.5 Sonnet model for car damage analysis.
